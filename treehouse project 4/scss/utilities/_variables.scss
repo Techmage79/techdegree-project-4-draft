@@ -1,0 +1,10 @@
+// Color Themes //
+$color-text: #fff;
+$color-primary: #58e1c1;
+$color-secondary: #777;
+$color-accent: #51ddfc;
+$color-background: #927bc1;
+//  hover variables //
+$color-accent-light: lighten($color-accent, 15%);
+// Media Queriey Breakpoints //
+$break-med: 768px;
